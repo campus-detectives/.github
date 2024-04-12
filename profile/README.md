@@ -23,7 +23,7 @@ The process of handling lost items has traditionally relied on manual lists main
 ### Key Features
 - Centralized System: VITrace replaces outdated manual lists by providing a centralized database accessible to authorized personnel.
 - User-Friendly Interface: Our app offers an easy interface to upload images and obtains details of lost items.
-- Object Detection: Our app offers an easy way to search for your lost items by uploading by searching for your app using an image.
+- Object Detection: Our app offers an easy way to search for your lost items by uploading an image of the lost item.
 - Ownership Tracking: VITrace records ownership information, ensuring transparency and aiding in conflict resolution when multiple claims are made for the same item.
 - Section for Laundry Items: Recognizing the unique challenge of lost laundry items on campus, VITrace offers a section platform where students can independently upload and search for their missing items.
 
