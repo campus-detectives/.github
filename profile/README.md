@@ -86,16 +86,6 @@ The process of handling lost items has traditionally relied on manual lists main
 </table>
 
 **Authority Side**
-<style>
-  table {
-    width: 100%;
-    max-width: 100%;
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
 
 <table>
   <tr>
