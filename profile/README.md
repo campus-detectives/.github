@@ -8,7 +8,7 @@
 <h1 align="center">VITrace</h3>
 
   <p align="center">
-    An app to help you trace your lost items
+    An AI enabled app to help you trace your lost items
   </p>
 </div>
 
