@@ -63,50 +63,6 @@ The process of handling lost items has traditionally relied on manual lists main
    <img src="images/Student.jpeg">
 
 
-
-## Getting Started
-### Prerequisites
-
-* golang-migrate
-  ```sh
-  go install -tags 'postgres' github.com/golang-migrate/migrate/v4/cmd/migrate@latest
-  ```
-* make
-
-### Configuration
-
-The API app uses environment variables for configuration. You can set these variables directly in your environment or use a `.env` file placed at the project root.
-
-#### Configuration Variables
-
-The following configuration variables are used:
-
-- **LAF_DSN**: PostgreSQL DSN (Data Source Name) to connect to the database server.
-
-- **LAF_HTTP_ADDR**: The address on which the HTTP server will run. This should be specified in the form `host:port`.
-
-### Setting Environment Variables
-
-You can set these environment variables in your terminal or in a `.env` file. If using a `.env` file, make sure it is placed in the root directory of the project. An example `.env` file might look like this:
-
-```
-LAF_DSN=postgres://myusername:mypassword@localhost:5432/mydatabase
-LAF_HTTP_ADDR=localhost:8000
-```
-
-### Usage
-1. Clone the repo
-
-2. Setup database
-   ```sh
-   make db/migrations/up
-   ```
-
-3. Run
-   ```sh
-   make run/api
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Screenshots
