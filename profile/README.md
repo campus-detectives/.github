@@ -67,42 +67,25 @@ The process of handling lost items has traditionally relied on manual lists main
 
 ## Screenshots
 
-**Student Side**
-<table>
-  <tr>
-    <td>
-      <img src="images/screenshot_unclaimed.jpeg" alt="unclaimed items" height="400"/>
-    </td>
-    <td>
-      <img src="images/screenshot_filter.jpeg" alt="filter" height="400"/>
-    </td>
-    <td>
-      <img src="images/screenshot_result.jpeg" alt="filter" height="400"/>
-    </td>
-    <td>
-      <img src="images/screenshot_contest_claim.jpeg" alt="filter" height="400"/>
-    </td>
-  </tr>
-</table>
+## Screenshots
 
-**Authority Side**
+### Student Side
 
-<table>
-  <tr>
-    <td>
-      <img src="images/guard_home.jpeg" alt="unclaimed items" height="400"/>
-    </td>
-    <td>
-      <img src="images/guard_submit.jpeg" alt="filter" height="400"/>
-    </td>
-    <td>
-      <img src="images/guard_image.jpeg" alt="filter" height="400"/>
-    </td>
-    <td>
-      <img src="images/guard_claim.jpeg" alt="filter" height="400"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="images/screenshot_unclaimed.jpeg" alt="unclaimed items" style="max-width: 45%; margin-bottom: 10px;">
+  <img src="images/screenshot_filter.jpeg" alt="filter" style="max-width: 45%; margin-bottom: 10px;">
+  <img src="images/screenshot_result.jpeg" alt="filter" style="max-width: 45%; margin-bottom: 10px;">
+  <img src="images/screenshot_contest_claim.jpeg" alt="filter" style="max-width: 45%; margin-bottom: 10px;">
+</div>
+
+### Authority Side
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="images/guard_home.jpeg" alt="unclaimed items" style="max-width: 45%; margin-bottom: 10px;">
+  <img src="images/guard_submit.jpeg" alt="filter" style="max-width: 45%; margin-bottom: 10px;">
+  <img src="images/guard_image.jpeg" alt="filter" style="max-width: 45%; margin-bottom: 10px;">
+  <img src="images/guard_claim.jpeg" alt="filter" style="max-width: 45%; margin-bottom: 10px;">
+</div>
 
 
 
