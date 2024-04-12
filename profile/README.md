@@ -56,11 +56,11 @@ The process of handling lost items has traditionally relied on manual lists main
 
 **Authority Side Workflow**
 
-   <img src="./images/auth.jpeg">
+   <img src="images/auth.jpeg">
 
 **Student Side Workflow**
 
-   <img src="./images/Student.jpeg">
+   <img src="images/Student.jpeg">
 
 
 
