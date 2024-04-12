@@ -16,7 +16,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-VITrace is a for the of lost and found items within campus environments. It offers a solution to address the challenges faced by both security personnel and students in locating and reclaiming lost belongings.
+VITrace is an app for the management of lost and found items within campus environments. It offers a solution to address the challenges faced by both security personnel and students in locating and reclaiming lost belongings.
 
 The process of handling lost items has traditionally relied on manual lists maintained by watchmen, resulting in inefficiencies and difficulties for owners trying to locate their lost possessions. With Vitrace, we introduce a centralized approach to streamline this process.
 
