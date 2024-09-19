@@ -71,16 +71,16 @@ The process of handling lost items has traditionally relied on manual lists main
 <table>
   <tr>
     <td>
-      <img src="images/screenshot_unclaimed.jpeg" alt="unclaimed items" height="400"/>
+      <img src="./images/screenshot_unclaimed.jpeg" alt="unclaimed items" height="400"/>
     </td>
     <td>
-      <img src="images/screenshot_filter.jpeg" alt="filter" height="400"/>
+      <img src="./images/screenshot_filter.jpeg" alt="filter" height="400"/>
     </td>
     <td>
-      <img src="images/screenshot_result.jpeg" alt="filter" height="400"/>
+      <img src="./images/screenshot_result.jpeg" alt="filter" height="400"/>
     </td>
     <td>
-      <img src="images/screenshot_contest_claim.jpeg" alt="filter" height="400"/>
+      <img src="./images/screenshot_contest_claim.jpeg" alt="filter" height="400"/>
     </td>
   </tr>
 </table>
